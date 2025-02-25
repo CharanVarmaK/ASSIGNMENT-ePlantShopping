@@ -1,1 +1,3 @@
-# coding-project-template
+# Assignment-Submission: ePlantShopping
+---
+# Course: Developing Front-End Apps with React
